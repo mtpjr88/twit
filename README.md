@@ -406,7 +406,7 @@ Emitted when a direct message is sent to the user. Unfortunately, Twitter has no
 stream.on('direct_message', function (directMsg) {
   //...
 })
-```
+
 
 ## event: 'user_event'
 
